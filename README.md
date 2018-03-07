@@ -39,6 +39,7 @@ Video Encoding Beta Test.
 ● Video Rotation Filters + Flip.Vertical & Flip.Horizontal.
 
 ● Choice : Sample Aspect Ratio (SAR) & Display Aspect Ratio (DAR).
+
 ● Detect Video Cropping Filter.
 
 ● Image Capture From Video With System *KSF (Keep Snap Frame).
